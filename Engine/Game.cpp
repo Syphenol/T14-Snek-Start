@@ -33,7 +33,7 @@ Game::Game( MainWindow& wnd )
 
 {
 }
-
+//yupyupyup
 void Game::Go()
 {
 	gfx.BeginFrame();	
